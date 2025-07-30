@@ -79,7 +79,7 @@
 <body>
 
   <header>
-    <h1>Promo Mobil Mitsubishi Juli 2025</h1>
+    <h1>Promo Mobil Mitsubishi Agustus 2025</h1>
     <p>Diskon besar & cicilan ringan hanya bulan ini!</p>
   </header>
 
@@ -87,7 +87,7 @@
     <div class="card">
       <img src="https://www.mitsubishi-motors.co.id/uploads/product_gallery/xpander/0001.jpg" alt="Mitsubishi Xpander">
       <h2>Mitsubishi Xpander</h2>
-      <p>✅ DP mulai 10 juta</p>
+      <p>✅ DP mulai 20 juta</p>
       <p>✅ Cicilan ringan mulai 3 jutaan</p>
       <p>✅ Gratis asuransi & kaca film</p>
     </div>
@@ -95,9 +95,9 @@
     <div class="card">
       <img src="https://www.mitsubishi-motors.co.id/uploads/product_gallery/pajero-sport/0001.jpg" alt="Pajero Sport">
       <h2>Mitsubishi Pajero Sport</h2>
-      <p>✅ Diskon hingga 50 juta</p>
+      <p>✅ Diskon puluhan juta</p>
       <p>✅ Test drive gratis</p>
-      <p>✅ Free service & oli 3 tahun</p>
+      <p>✅ Proses cepat</p>
     </div>
 
     <div class="card">
@@ -116,7 +116,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Mitsubishi Dealer Resmi Indonesia</p>
+    <p>&copy; 2025 PT. Dipo Internasional Pahala Otomotif Mitsubishi Dealer Resmi Indonesia</p>
   </footer>
 
 </body>
